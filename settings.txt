@@ -1,0 +1,50 @@
+Question_Text_Font:Calibri
+Question_Text_Size:26
+Question_Vertical_Adjustment:0
+
+Question_Text_Color1:234
+Question_Text_Color2:234
+Question_Text_Color3:234
+
+Question_Text_Shadow_Size:2
+
+Question_Text_Shadow_Color1:26
+Question_Text_Shadow_Color2:26
+Question_Text_Shadow_Color3:26
+
+
+Answer_Text_Font:Calibri
+Answer_Text_Size:22
+Answer_Vertical_Adjustment:0
+
+Answer_Text_Color1:234
+Answer_Text_Color2:234
+Answer_Text_Color3:234
+
+Answer_Text_Shadow_Size:2
+
+Answer_Text_Shadow_Color1:26
+Answer_Text_Shadow_Color2:26
+Answer_Text_Shadow_Color3:26
+
+
+Clock_Timer:30
+
+Synthetic_Voice(TTS):on
+
+Synthetic_Voice_Language:en-GB
+
+
+Host_Voice_URI:Google UK English Male
+
+Call_Voice_URI:Google UK English Female
+
+Call_Message_1_Part_1:Hello player, unfortunately I don't know the answer, but if I had to choose one, my choice would be option
+Call_Message_1_Part_2:. Sorry I couldn't be more help. Good luck!
+
+Call_Message_2_Part_1:Hello player, unfortunately I am not sure, it could be option
+Call_Message_2_Part_2:or option
+Call_Message_2_Part_3:. Sorry I couldn't be more help. Good luck!
+
+Call_Message_3_Part_1:Hello player, that question is a piece of cake, I hope it's the million-dollar question... The answer is
+Call_Message_3_Part_2:. Good luck!
